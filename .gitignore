@@ -1,0 +1,16 @@
+# Python venv
+.venv/
+ride-venv/
+
+# Robot outputs
+results/
+output.xml
+log.html
+report.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
